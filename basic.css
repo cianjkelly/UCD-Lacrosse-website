@@ -1,0 +1,130 @@
+body,html
+{
+    background-color: black;
+    font-size: 14pt;
+}
+
+.logo
+{
+   height: 20px;
+    width: 20px;
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 5px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover
+{
+    background-color: #111;
+}
+
+.center
+{
+    display: block;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 80px;
+    width: 80px;
+}
+h1
+{
+    text-align: center;
+}
+
+div
+{
+    color: white;
+    width: 99.99%;
+    height: 100%;
+    background-color: #333333;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+a
+{
+    color: yellow;
+}
+h3
+{
+    color: deepskyblue;
+    text-align: center;
+}
+h4
+{
+    text-align: center;
+}
+
+.column
+{
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+}
+
+.sticks
+{
+    height: 400px;
+    width: 400px;
+    margin-right: auto;
+}
+
+.footnote
+{
+    text-align: center;
+    font-size: 9pt;
+    word-spacing: 5px;
+}
+
+.footnote a
+{
+    text-align: center;
+    font-size: 9pt;
+    word-spacing: 5px;
+}
+
+.styles2
+{
+    line-height: 30pt;
+}
+
+.map
+{
+    height: 100%;
+    width: 100%;
+    margin: 25px;
+}
+
+table
+{
+  width: 80%;
+    margin: auto;
+}
+
+.imgs
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+
